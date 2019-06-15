@@ -3,4 +3,8 @@ class SuperHero
   
   SUPERHEROES = []
   
+  def initialize(params)
+    
+  end
+  
 end
